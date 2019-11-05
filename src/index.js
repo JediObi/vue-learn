@@ -1,2 +1,3 @@
-require('./index.css')
-document.write("hello, this is a test!");
+import Vue from "vue";
+import router from "./routers/"
+import App from "./App"
