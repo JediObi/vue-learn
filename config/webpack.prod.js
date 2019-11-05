@@ -28,10 +28,4 @@ module.exports = {
         }),
         new VueLoaderPlugin(),
     ],
-    // devServer: {
-    //     contentBase: path.resolve(__dirname, 'public'),
-    //     historyApiFallback: false,
-    //     inline: true,
-    //     port: 3000,
-    // },
 }
