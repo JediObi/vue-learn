@@ -13,3 +13,6 @@ flux 用于集中管理数据源。
 可以使用mapXXX函数把 store　单例的属性映射到　组件的成员上。并且 action和mutation会自动银蛇dispatch和commit。映射时，统一的命名空间前缀还可以提取出来作为mapXXX的第一个参数，以省略掉重复书写。
 
 store可以写在 ./stroe目录，统一导出即可。
+
+
+
